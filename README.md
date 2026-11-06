@@ -3,7 +3,7 @@
 **Junior Software Engineer** · Montevideo, Uruguay 🇺🇾
 
 I build with **Python, LLMs, RAG and AI agents** — FastAPI backends, SQL, tests and evals.
-AI-pair-programmed (Claude Code / Cursor style), human-reviewed. Every project below runs
+I design, build and verify each project end to end, working hands-on with AI coding tools. Every project below runs
 with one command (`./demo.sh`), ships tests + evals, and is verified against a real LLM API.
 
 ## Featured projects
